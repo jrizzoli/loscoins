@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ware_bug">#FF8A7D</color>
+    <color name="ware_device">#21A692</color>
+    <color name="ware_eta">#6C8FF0</color>
+    <color name="ware_feature">#52AAF2</color>
+    <color name="ware_item_background">@color/white</color>
+    <color name="ware_key">#FFBE33</color>
+    <color name="ware_money">#FF9C33</color>
+    <color name="ware_permission">#82A34D</color>
+    <color name="ware_promo">#FF8A7D</color>
+    <color name="ware_rom">#5BBD82</color>
+    <color name="ware_undefined">#AF80E0</color>
+    <color name="ware_yacht">#B6C4D1</color>
+</resources>

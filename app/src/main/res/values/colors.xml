@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_200">#497E80</color>
+    <color name="teal_700">#167c80</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="ic_launcher_background">#167C80</color>
+
+    <color name="ware_bug">#ff5c49</color>
+    <color name="ware_device">#00a78f</color>
+    <color name="ware_eta">#3c6df0</color>
+    <color name="ware_feature">#2196f3</color>
+    <color name="ware_item_background">@color/white</color>
+    <color name="ware_key">#ffb000</color>
+    <color name="ware_money">#fe8500</color>
+    <color name="ware_permission">#73a22c</color>
+    <color name="ware_promo">#ff5c49</color>
+    <color name="ware_rom">#34bc6e</color>
+    <color name="ware_undefined">#9753e1</color>
+    <color name="ware_yacht">#A1B9D1</color>
+</resources>

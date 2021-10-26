@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Theme.LosCoins" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/teal_200</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">?android:attr/colorPrimary</item>
+        <item name="colorOnSecondary">?attr/colorOnPrimary</item>
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>

@@ -1,0 +1,57 @@
+[
+    {
+        "name": "A bug",
+        "price": 100,
+        "type": "bug"
+    },
+    {
+        "name": "Cool device",
+        "price": 230,
+        "type": "device"
+    },
+    {
+        "name": "16.1 ETA",
+        "price": 819,
+        "type": "eta"
+    },
+    {
+        "name": "VoLTE",
+        "price": 12345,
+        "type": "feature"
+    },
+    {
+        "name": "Unlock",
+        "price": 100,
+        "type": "key"
+    },
+    {
+        "name": "-10 LOSCoins",
+        "price": 10,
+        "type": "money"
+    },
+    {
+        "name": "Single-use +2 button",
+        "price": 9999,
+        "type": "permission"
+    },
+    {
+        "name": "Sales!",
+        "price": 1,
+        "type": "promo"
+    },
+    {
+        "name": "gapps.zip",
+        "price": 100,
+        "type": "rom"
+    },
+    {
+        "name": "???",
+        "price": 1,
+        "type": "undefined"
+    },
+    {
+        "name": "Koush–yacht 1200",
+        "price": 99999,
+        "type": "yacht"
+    }
+]

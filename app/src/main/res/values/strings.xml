@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">LosCoins</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No.</string>
+    <string name="maybe">Maybe</string>
+
+    <string name="loading">Loading…</string>
+
+    <string name="soon">Soon™</string>
+
+    <string name="current_balance">Current balance</string>
+
+    <string name="add_commits">Marinate commits</string>
+    <string name="commits_empty"><b>STOP SLEEP!</b> Push some commits and get some LOSCoins by letting them marinate</string>
+    <string name="commits_add_message">You can earn LOSCoins by marinating gerrit changes. Pick a gerrit change of your choice and the more it marinates the more you\'ll be rewarded once the blue button is pressed</string>
+    <string name="commits_add_hint">Change id number (eg. 317319)</string>
+    <string name="commits_add_my">Muh commits</string>
+    <string name="commits_add">Marinate now</string>
+    <string name="commit_add_error">I would prefer that you didn\'t submit this: only commits that are open and public can marinate</string>
+    <string name="commit_summary_open">Marinating since %1$s\n%2$d LOSCoins</string>
+
+    <string name="shop_label">Shop</string>
+    <string name="shop_refresh">Refresh</string>
+    <string name="shop_empty">Dead shop</string>
+    <string name="shop_buy">%1$d LOSCoins</string>
+    <string name="shop_purchase_failure_title">Yikes…</string>
+    <string name="shop_purchase_failure_message">It seems that this lazy fast-shipper can\'t afford to buy this product. LRN2 marinate</string>
+    <string name="shop_purchase_success_title">It has been successfully purchased</string>
+    <string name="shop_purchase_success_message">Looks good to me, approved. Your new shiny \"%1$s\" will be shipped soon™</string>
+
+    <string name="collectibles_label">Collectibles</string>
+    <string name="collectibles_empty"><b>STOP SLEEP!</b> Buy something from the shop</string>
+    <string name="collectibles_summary">Obtained: %1$s\nOwned: %2$d</string>
+
+    <string name="setup_label">Welcome to your LOSCoin wallet</string>
+    <string name="setup_user_name">Gerrit user name</string>
+    <string name="setup_user_id">Gerrit user id</string>
+    <string name="setup_info">You can find these values at <a href="https://review.lineageos.org/settings/">https://review.lineageos.org/settings/</a></string>
+    <string name="setup_start">Start</string>
+</resources>
